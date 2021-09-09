@@ -86,7 +86,6 @@ class LoginHandler extends Component {
       .then(() => {
         this.setState({
           isError: false,
-          email: '',
           message: [
             'If that email address exists in our system, we\'ve just sent you a link to continue logging in!'
           ]
