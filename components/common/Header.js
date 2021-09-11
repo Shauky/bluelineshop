@@ -204,7 +204,7 @@ class Header extends Component {
             <Link href="/">
               <a>
                 <img
-                  src="/images/commerce.png"
+                  src="/images/commerce.svg"
                   className="logo cursor-pointer"
                   alt="Logo"
                 />
